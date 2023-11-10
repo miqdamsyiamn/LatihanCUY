@@ -1,0 +1,2 @@
+# LatihanCUY
+untuk latihan
